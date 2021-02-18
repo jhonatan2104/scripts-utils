@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 chmod a+x execution-permission.sh
 sudo ./execution-permission.sh
 
